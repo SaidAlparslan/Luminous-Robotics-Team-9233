@@ -1,0 +1,86 @@
+{
+  "version": "2025.0",
+  "waypoints": [
+    {
+      "anchor": {
+        "x": 5.779306550267957,
+        "y": 3.8578205249999677
+      },
+      "prevControl": null,
+      "nextControl": {
+        "x": 6.304524434109693,
+        "y": 4.524084810743835
+      },
+      "isLocked": false,
+      "linkedName": "b4"
+    },
+    {
+      "anchor": {
+        "x": 6.5962756849315065,
+        "y": 5.610209760273973
+      },
+      "prevControl": {
+        "x": 6.744048777008903,
+        "y": 5.049686788497591
+      },
+      "nextControl": {
+        "x": 6.411170590543258,
+        "y": 6.312337976844728
+      },
+      "isLocked": false,
+      "linkedName": null
+    },
+    {
+      "anchor": {
+        "x": 4.567808219178082,
+        "y": 6.887392979452056
+      },
+      "prevControl": {
+        "x": 5.093707191780822,
+        "y": 6.752161815068494
+      },
+      "nextControl": {
+        "x": 3.741278377421124,
+        "y": 7.099929224475274
+      },
+      "isLocked": false,
+      "linkedName": null
+    },
+    {
+      "anchor": {
+        "x": 1.5481307049540773,
+        "y": 7.454535250780393
+      },
+      "prevControl": {
+        "x": 1.8316818801688795,
+        "y": 7.374927106365748
+      },
+      "nextControl": null,
+      "isLocked": false,
+      "linkedName": "BLUESOURCE"
+    }
+  ],
+  "rotationTargets": [],
+  "constraintZones": [],
+  "pointTowardsZones": [],
+  "eventMarkers": [],
+  "globalConstraints": {
+    "maxVelocity": 3.0,
+    "maxAcceleration": 3.0,
+    "maxAngularVelocity": 540.0,
+    "maxAngularAcceleration": 720.0,
+    "nominalVoltage": 12.0,
+    "unlimited": false
+  },
+  "goalEndState": {
+    "velocity": 0,
+    "rotation": -53.53736103142317
+  },
+  "reversed": false,
+  "folder": "blueprocessor",
+  "idealStartingState": {
+    "velocity": 0,
+    "rotation": 180.0
+  },
+  "useDefaultConstraints": true
+}

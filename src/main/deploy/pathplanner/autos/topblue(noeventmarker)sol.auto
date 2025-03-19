@@ -1,0 +1,73 @@
+{
+  "version": "2025.0",
+  "command": {
+    "type": "sequential",
+    "data": {
+      "commands": [
+        {
+          "type": "path",
+          "data": {
+            "pathName": "Copy of TopBlue-B1"
+          }
+        },
+        {
+          "type": "named",
+          "data": {
+            "name": "L4Shoot"
+          }
+        },
+        {
+          "type": "path",
+          "data": {
+            "pathName": "Copy of B1-Source"
+          }
+        },
+        {
+          "type": "named",
+          "data": {
+            "name": "Intake"
+          }
+        },
+        {
+          "type": "path",
+          "data": {
+            "pathName": "Copy of Source-B11"
+          }
+        },
+        {
+          "type": "named",
+          "data": {
+            "name": "L4Shoot"
+          }
+        },
+        {
+          "type": "path",
+          "data": {
+            "pathName": "Copy of B11-Source"
+          }
+        },
+        {
+          "type": "named",
+          "data": {
+            "name": "Intake"
+          }
+        },
+        {
+          "type": "path",
+          "data": {
+            "pathName": "Copy of Source-B12"
+          }
+        },
+        {
+          "type": "named",
+          "data": {
+            "name": "L4Shoot"
+          }
+        }
+      ]
+    }
+  },
+  "resetOdom": true,
+  "folder": null,
+  "choreoAuto": false
+}

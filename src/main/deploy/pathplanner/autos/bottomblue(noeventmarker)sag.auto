@@ -1,0 +1,49 @@
+{
+  "version": "2025.0",
+  "command": {
+    "type": "sequential",
+    "data": {
+      "commands": [
+        {
+          "type": "path",
+          "data": {
+            "pathName": "bottom-B6(l4)"
+          }
+        },
+        {
+          "type": "named",
+          "data": {
+            "name": "L4Shoot"
+          }
+        },
+        {
+          "type": "path",
+          "data": {
+            "pathName": "B6-source(notr)"
+          }
+        },
+        {
+          "type": "named",
+          "data": {
+            "name": "Intake"
+          }
+        },
+        {
+          "type": "path",
+          "data": {
+            "pathName": "source-b7(l4)"
+          }
+        },
+        {
+          "type": "named",
+          "data": {
+            "name": "L4Shoot"
+          }
+        }
+      ]
+    }
+  },
+  "resetOdom": true,
+  "folder": null,
+  "choreoAuto": false
+}
